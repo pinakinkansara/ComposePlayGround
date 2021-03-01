@@ -11,6 +11,7 @@
 /.idea/misc.xml
 /.idea/compiler.xml
 /.idea/.gitignore
+/.idea/*
 .DS_Store
 /build
 /captures
